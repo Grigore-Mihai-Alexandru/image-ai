@@ -1,0 +1,302 @@
+{
+  "labeldetection": [
+    {
+      "faceAnnotations": [],
+      "landmarkAnnotations": [],
+      "logoAnnotations": [],
+      "labelAnnotations": [
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/013s93",
+          "locale": "",
+          "description": "T-shirt",
+          "score": 0.8242749571800232,
+          "confidence": 0,
+          "topicality": 0.8242749571800232,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/03gq5hm",
+          "locale": "",
+          "description": "Font",
+          "score": 0.8212820887565613,
+          "confidence": 0,
+          "topicality": 0.8212820887565613,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0jjw",
+          "locale": "",
+          "description": "Art",
+          "score": 0.7532209753990173,
+          "confidence": 0,
+          "topicality": 0.7532209753990173,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0dwx7",
+          "locale": "",
+          "description": "Logo",
+          "score": 0.7146992683410645,
+          "confidence": 0,
+          "topicality": 0.7146992683410645,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/068mqj",
+          "locale": "",
+          "description": "Automotive design",
+          "score": 0.7066110372543335,
+          "confidence": 0,
+          "topicality": 0.7066110372543335,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/09ddf",
+          "locale": "",
+          "description": "Symbol",
+          "score": 0.6880266070365906,
+          "confidence": 0,
+          "topicality": 0.6880266070365906,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/01kyr8",
+          "locale": "",
+          "description": "Darkness",
+          "score": 0.6672766208648682,
+          "confidence": 0,
+          "topicality": 0.6672766208648682,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/02vwbzz",
+          "locale": "",
+          "description": "Electric blue",
+          "score": 0.6560133695602417,
+          "confidence": 0,
+          "topicality": 0.6560133695602417,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/021sdg",
+          "locale": "",
+          "description": "Graphics",
+          "score": 0.652961015701294,
+          "confidence": 0,
+          "topicality": 0.652961015701294,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/01cd9",
+          "locale": "",
+          "description": "Brand",
+          "score": 0.6508858799934387,
+          "confidence": 0,
+          "topicality": 0.6508858799934387,
+          "boundingPoly": null
+        }
+      ],
+      "textAnnotations": [],
+      "localizedObjectAnnotations": [],
+      "safeSearchAnnotation": null,
+      "imagePropertiesAnnotation": null,
+      "error": null,
+      "cropHintsAnnotation": null,
+      "fullTextAnnotation": null,
+      "webDetection": null,
+      "productSearchResults": null,
+      "context": null
+    }
+  ],
+  "logoDetection": [
+    {
+      "faceAnnotations": [],
+      "landmarkAnnotations": [],
+      "logoAnnotations": [
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0lwkh",
+          "locale": "",
+          "description": "Nike",
+          "score": 0.9552146196365356,
+          "confidence": 0,
+          "topicality": 0,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 63
+              },
+              {
+                "x": 203,
+                "y": 63
+              },
+              {
+                "x": 203,
+                "y": 157
+              },
+              {
+                "x": 24,
+                "y": 157
+              }
+            ],
+            "normalizedVertices": []
+          }
+        }
+      ],
+      "labelAnnotations": [],
+      "textAnnotations": [],
+      "localizedObjectAnnotations": [],
+      "safeSearchAnnotation": null,
+      "imagePropertiesAnnotation": null,
+      "error": null,
+      "cropHintsAnnotation": null,
+      "fullTextAnnotation": null,
+      "webDetection": null,
+      "productSearchResults": null,
+      "context": null
+    }
+  ],
+  "imageProps": [
+    {
+      "faceAnnotations": [],
+      "landmarkAnnotations": [],
+      "logoAnnotations": [],
+      "labelAnnotations": [],
+      "textAnnotations": [],
+      "localizedObjectAnnotations": [],
+      "safeSearchAnnotation": null,
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 253,
+                "green": 253,
+                "blue": 253,
+                "alpha": null
+              },
+              "score": 0.7412350177764893,
+              "pixelFraction": 0.111282579600811
+            },
+            {
+              "color": {
+                "red": 11,
+                "green": 11,
+                "blue": 11,
+                "alpha": null
+              },
+              "score": 0.11791452020406723,
+              "pixelFraction": 0.8618826866149902
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 158,
+                "blue": 158,
+                "alpha": null
+              },
+              "score": 0.03242054954171181,
+              "pixelFraction": 0.005144033115357161
+            },
+            {
+              "color": {
+                "red": 194,
+                "green": 194,
+                "blue": 194,
+                "alpha": null
+              },
+              "score": 0.03240347281098366,
+              "pixelFraction": 0.005144033115357161
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 53,
+                "blue": 53,
+                "alpha": null
+              },
+              "score": 0.030379265546798706,
+              "pixelFraction": 0.00703017832711339
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 122,
+                "blue": 122,
+                "alpha": null
+              },
+              "score": 0.025339579209685326,
+              "pixelFraction": 0.005572702270001173
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 88,
+                "blue": 88,
+                "alpha": null
+              },
+              "score": 0.020307574421167374,
+              "pixelFraction": 0.003943758551031351
+            }
+          ]
+        }
+      },
+      "error": null,
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 0,
+                  "y": 48
+                },
+                {
+                  "x": 224,
+                  "y": 48
+                },
+                {
+                  "x": 224,
+                  "y": 176
+                },
+                {
+                  "x": 0,
+                  "y": 176
+                }
+              ],
+              "normalizedVertices": []
+            },
+            "confidence": 0.45978522300720215,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": null,
+      "webDetection": null,
+      "productSearchResults": null,
+      "context": null
+    }
+  ]
+}
