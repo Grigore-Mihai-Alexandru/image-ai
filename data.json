@@ -8,12 +8,100 @@
         {
           "locations": [],
           "properties": [],
-          "mid": "/m/013s93",
+          "mid": "/m/09j5n",
           "locale": "",
-          "description": "T-shirt",
-          "score": 0.8242749571800232,
+          "description": "Footwear",
+          "score": 0.9840575456619263,
           "confidence": 0,
-          "topicality": 0.8242749571800232,
+          "topicality": 0.9840575456619263,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/06rrc",
+          "locale": "",
+          "description": "Shoe",
+          "score": 0.9591577649116516,
+          "confidence": 0,
+          "topicality": 0.9591577649116516,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/083jv",
+          "locale": "",
+          "description": "White",
+          "score": 0.9218910932540894,
+          "confidence": 0,
+          "topicality": 0.9218910932540894,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0hgrj75",
+          "locale": "",
+          "description": "Outdoor shoe",
+          "score": 0.8770253658294678,
+          "confidence": 0,
+          "topicality": 0.8770253658294678,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0hgs9bq",
+          "locale": "",
+          "description": "Walking shoe",
+          "score": 0.8590667247772217,
+          "confidence": 0,
+          "topicality": 0.8590667247772217,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/0244x1",
+          "locale": "",
+          "description": "Gesture",
+          "score": 0.852604866027832,
+          "confidence": 0,
+          "topicality": 0.852604866027832,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/036k5h",
+          "locale": "",
+          "description": "Grey",
+          "score": 0.845170259475708,
+          "confidence": 0,
+          "topicality": 0.845170259475708,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/03scnj",
+          "locale": "",
+          "description": "Line",
+          "score": 0.8188251256942749,
+          "confidence": 0,
+          "topicality": 0.8188251256942749,
+          "boundingPoly": null
+        },
+        {
+          "locations": [],
+          "properties": [],
+          "mid": "/m/025xryy",
+          "locale": "",
+          "description": "Sportswear",
+          "score": 0.813520610332489,
+          "confidence": 0,
+          "topicality": 0.813520610332489,
           "boundingPoly": null
         },
         {
@@ -22,97 +110,9 @@
           "mid": "/m/03gq5hm",
           "locale": "",
           "description": "Font",
-          "score": 0.8212820887565613,
+          "score": 0.8121148943901062,
           "confidence": 0,
-          "topicality": 0.8212820887565613,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/0jjw",
-          "locale": "",
-          "description": "Art",
-          "score": 0.7532209753990173,
-          "confidence": 0,
-          "topicality": 0.7532209753990173,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/0dwx7",
-          "locale": "",
-          "description": "Logo",
-          "score": 0.7146992683410645,
-          "confidence": 0,
-          "topicality": 0.7146992683410645,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/068mqj",
-          "locale": "",
-          "description": "Automotive design",
-          "score": 0.7066110372543335,
-          "confidence": 0,
-          "topicality": 0.7066110372543335,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/09ddf",
-          "locale": "",
-          "description": "Symbol",
-          "score": 0.6880266070365906,
-          "confidence": 0,
-          "topicality": 0.6880266070365906,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/01kyr8",
-          "locale": "",
-          "description": "Darkness",
-          "score": 0.6672766208648682,
-          "confidence": 0,
-          "topicality": 0.6672766208648682,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/02vwbzz",
-          "locale": "",
-          "description": "Electric blue",
-          "score": 0.6560133695602417,
-          "confidence": 0,
-          "topicality": 0.6560133695602417,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/021sdg",
-          "locale": "",
-          "description": "Graphics",
-          "score": 0.652961015701294,
-          "confidence": 0,
-          "topicality": 0.652961015701294,
-          "boundingPoly": null
-        },
-        {
-          "locations": [],
-          "properties": [],
-          "mid": "/m/01cd9",
-          "locale": "",
-          "description": "Brand",
-          "score": 0.6508858799934387,
-          "confidence": 0,
-          "topicality": 0.6508858799934387,
+          "topicality": 0.8121148943901062,
           "boundingPoly": null
         }
       ],
@@ -139,26 +139,26 @@
           "mid": "/m/0lwkh",
           "locale": "",
           "description": "Nike",
-          "score": 0.9552146196365356,
+          "score": 0.9699157476425171,
           "confidence": 0,
           "topicality": 0,
           "boundingPoly": {
             "vertices": [
               {
-                "x": 24,
-                "y": 63
+                "x": 299,
+                "y": 384
               },
               {
-                "x": 203,
-                "y": 63
+                "x": 409,
+                "y": 384
               },
               {
-                "x": 203,
-                "y": 157
+                "x": 409,
+                "y": 425
               },
               {
-                "x": 24,
-                "y": 157
+                "x": 299,
+                "y": 425
               }
             ],
             "normalizedVertices": []
@@ -192,73 +192,103 @@
           "colors": [
             {
               "color": {
-                "red": 253,
-                "green": 253,
-                "blue": 253,
-                "alpha": null
-              },
-              "score": 0.7412350177764893,
-              "pixelFraction": 0.111282579600811
-            },
-            {
-              "color": {
-                "red": 11,
-                "green": 11,
-                "blue": 11,
-                "alpha": null
-              },
-              "score": 0.11791452020406723,
-              "pixelFraction": 0.8618826866149902
-            },
-            {
-              "color": {
-                "red": 158,
-                "green": 158,
-                "blue": 158,
-                "alpha": null
-              },
-              "score": 0.03242054954171181,
-              "pixelFraction": 0.005144033115357161
-            },
-            {
-              "color": {
                 "red": 194,
-                "green": 194,
-                "blue": 194,
+                "green": 191,
+                "blue": 189,
                 "alpha": null
               },
-              "score": 0.03240347281098366,
-              "pixelFraction": 0.005144033115357161
+              "score": 0.31157901883125305,
+              "pixelFraction": 0.28424033522605896
             },
             {
               "color": {
-                "red": 53,
-                "green": 53,
-                "blue": 53,
+                "red": 22,
+                "green": 23,
+                "blue": 26,
                 "alpha": null
               },
-              "score": 0.030379265546798706,
-              "pixelFraction": 0.00703017832711339
+              "score": 0.0690741017460823,
+              "pixelFraction": 0.055651936680078506
             },
             {
               "color": {
-                "red": 122,
-                "green": 122,
-                "blue": 122,
+                "red": 162,
+                "green": 160,
+                "blue": 157,
                 "alpha": null
               },
-              "score": 0.025339579209685326,
-              "pixelFraction": 0.005572702270001173
+              "score": 0.26584723591804504,
+              "pixelFraction": 0.24068662524223328
             },
             {
               "color": {
-                "red": 88,
+                "red": 239,
+                "green": 236,
+                "blue": 236,
+                "alpha": null
+              },
+              "score": 0.24785427749156952,
+              "pixelFraction": 0.2547023296356201
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 123,
+                "blue": 120,
+                "alpha": null
+              },
+              "score": 0.04231256619095802,
+              "pixelFraction": 0.035655587911605835
+            },
+            {
+              "color": {
+                "red": 47,
+                "green": 47,
+                "blue": 50,
+                "alpha": null
+              },
+              "score": 0.024635955691337585,
+              "pixelFraction": 0.021502921357750893
+            },
+            {
+              "color": {
+                "red": 92,
                 "green": 88,
-                "blue": 88,
+                "blue": 87,
                 "alpha": null
               },
-              "score": 0.020307574421167374,
-              "pixelFraction": 0.003943758551031351
+              "score": 0.012587567791342735,
+              "pixelFraction": 0.011002556420862675
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 44,
+                "blue": 43,
+                "alpha": null
+              },
+              "score": 0.005510908085852861,
+              "pixelFraction": 0.002191380597651005
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 39,
+                "blue": 34,
+                "alpha": null
+              },
+              "score": 0.00453993771225214,
+              "pixelFraction": 0.003424032125622034
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 112,
+                "blue": 98,
+                "alpha": null
+              },
+              "score": 0.0021480845753103495,
+              "pixelFraction": 0.0010956902988255024
             }
           ]
         }
@@ -270,26 +300,26 @@
             "boundingPoly": {
               "vertices": [
                 {
-                  "x": 0,
-                  "y": 48
+                  "x": 288,
+                  "y": 0
                 },
                 {
-                  "x": 224,
-                  "y": 48
+                  "x": 825,
+                  "y": 0
                 },
                 {
-                  "x": 224,
-                  "y": 176
+                  "x": 825,
+                  "y": 959
                 },
                 {
-                  "x": 0,
-                  "y": 176
+                  "x": 288,
+                  "y": 959
                 }
               ],
               "normalizedVertices": []
             },
-            "confidence": 0.45978522300720215,
-            "importanceFraction": 1
+            "confidence": 0.8125001192092896,
+            "importanceFraction": 0.8145454525947571
           }
         ]
       },
